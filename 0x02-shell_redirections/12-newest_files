@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -t | grep -e "\s*" | head -n 10
